@@ -43,25 +43,9 @@
 
 End-to-end analytics pipeline focused on ETL, KPI monitoring and business intelligence using Python, SQL Server and Power BI.
 
-### ⚡ Jira Flow Analytics
-
-Operational analytics solution for lead time analysis, SLA tracking and bottleneck identification in IT processes.
-
-### 🚀 ETL Performance Optimization
-
-Performance optimization project reducing ETL execution time from minutes to seconds through Python and SQL processing.
-
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flpee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flpee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
 
 <div align="center">
 
