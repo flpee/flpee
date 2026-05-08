@@ -1,20 +1,8 @@
 <div align="center">
 
-<img width="100%" src="./images/banner.gif" alt="Felipe Santos Banner"/>
+<img width="100%" src="felipe_santos_espindola_banner.png" alt="Felipe Santos Banner"/>
 
 </div>
-
-<h1 align="center">Felipe Santos</h1>
-
-<p align="center">
-Data Analytics • BI • Automation
-</p>
-
-<p align="center">
-Transforming data into insights, automation and operational efficiency.
-</p>
-
----
 
 ## About Me
 
