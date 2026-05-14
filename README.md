@@ -35,26 +35,6 @@
 
 </div>
 
----
-
-## Featured Projects
-
-### 📈 Superstore Analytics Pipeline
-
-End-to-end analytics pipeline focused on ETL, KPI monitoring and business intelligence using Python, SQL Server and Power BI.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flpee&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
