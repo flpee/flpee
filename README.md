@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="felipe_santos_espindola_banner.png" alt="Felipe Santos Banner"/>
+<img width="100%" src="banner/felipe_santos_espindola_banner.png" alt="Felipe Santos Banner"/>
 
 </div>
 
